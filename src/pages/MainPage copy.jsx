@@ -4,6 +4,7 @@ import FileTools from "./FileTools";
 
 function MainPage() {
 
+  console.log('MainPage component is being rendered');
 
   return (
     <div className="not-italic flex">
